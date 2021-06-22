@@ -1,4 +1,4 @@
-# **Portofolio**
+# **Portfolio**
 
 ## _MIT xPRO web development with JavaScript_
 
