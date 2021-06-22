@@ -1,11 +1,11 @@
-# **First Portofolio**
+# **Portofolio**
 
 ## _MIT xPRO web development with JavaScript_
+
+### PacMen Factory
+<a href="https://github.com/Marinela26/PacMen-Factory">PacMen Factory</a>
 
 ### Support: marinelatogoe@gmail.com
 
 ### Usage:
 
-The portofolio is still in progress until the end of the course.
-
-It is just a sample of the introductory page.
