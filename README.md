@@ -23,7 +23,7 @@
 
 
 ### Eyes Exercise
-<a href="https://github.com/Marinela26/Eyes-Exercise">Eyes Exercise-Repository</a>
+<a href="https://github.com/marinela-togoe/Eyes-Exercise">Eyes Exercise-Repository</a>
 <br>
 <a href="https://marinela-togoe.github.io/Eyes-Exercise/">Eyes Exercise-Demo</a>
 
